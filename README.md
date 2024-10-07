@@ -2,6 +2,6 @@
 - 👀 I’m passionate about solving real-world problems through code. Right now, I’m particularly interested in web development and data science...
 - 🌱 I'm always learning something new and I'm currently delving into Python and Githup to build even better apps.
 - 💞️ I'm excited to collaborate on open-source projects, especially those that involve making data accessible or creating intuitive user interfaces.
-- 📫 Feel free to reach out to me at julianahenaovald@gmail.com I’d love to connect!
+- 📫 Feel free to reach out to me at julianahenaovald@gmail.com I’d love to connect! 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: When I’m not coding, I’m experimenting with new dessert recipes—sugar is the fuel for my creativity!
